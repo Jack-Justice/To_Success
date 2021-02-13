@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>For a Birthday</title>
+  <title>记录第一次遇见</title>
   
   
   <link href="https://github.com/Jack-Justice/WY-s.birthday.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/Jack-Justice/WY-s.birthday.git/"/>
-  <updated>2021-02-06T05:33:30.623Z</updated>
+  <updated>2021-02-13T13:00:37.424Z</updated>
   <id>https://github.com/Jack-Justice/WY-s.birthday.git/</id>
   
   <author>
@@ -17,38 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>简介</title>
-    <link href="https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/%E6%9D%A5%E8%87%AA%E6%9F%AF%E5%9F%BA%E7%9A%84%E7%A5%9D%E7%A6%8F/"/>
-    <id>https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/%E6%9D%A5%E8%87%AA%E6%9F%AF%E5%9F%BA%E7%9A%84%E7%A5%9D%E7%A6%8F/</id>
-    <published>2021-02-02T11:12:47.000Z</published>
-    <updated>2021-02-06T05:33:30.623Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\WY-s.birthday\css\APlayer.min.css"><script src="\WY-s.birthday\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\WY-s.birthday\js\Meting.min.js"></script><p><img src="/WY-s.birthday/images/%E6%9D%A5%E8%87%AA%E6%9F%AF%E5%9F%BA%E7%9A%84%E7%A5%9D%E7%A6%8F/1.jpg" alt="1"></p><p>第一次尝试做，如果有什么地方可以改进，很期待可以听到你的声音！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\WY-s.birthday\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\WY-s.birthday\js\APlay</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Photo</title>
+    <title>屏幕前20岁的你</title>
     <link href="https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/Photo/"/>
     <id>https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/Photo/</id>
     <published>2021-02-02T11:12:47.000Z</published>
-    <updated>2021-02-06T06:49:35.084Z</updated>
+    <updated>2021-02-13T13:00:37.424Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\WY-s.birthday\css\APlayer.min.css"><script src="\WY-s.birthday\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\WY-s.birthday\js\Meting.min.js"></script><p><img src="/WY-s.birthday/images/1/A.jpg" alt="A"></p><p>放大看哦。（右击，在新标签页中打开即可）</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\WY-s.birthday\assets\css\APlayer.min.css"><script src="\WY-s.birthday\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/WY-s.birthday/images/1/A.jpg" alt="A"></p><p>祝20岁的你，越来越漂亮</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\WY-s.birthday\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\WY-s.birthday\js\APlay</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\WY-s.birthday\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\WY-s.birthday\a</summary>
       
     
     
@@ -57,18 +37,38 @@
   </entry>
   
   <entry>
-    <title>Happy Birthday!</title>
+    <title>小柯基</title>
+    <link href="https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/%E6%9D%A5%E8%87%AA%E6%9F%AF%E5%9F%BA%E7%9A%84%E7%A5%9D%E7%A6%8F/"/>
+    <id>https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/%E6%9D%A5%E8%87%AA%E6%9F%AF%E5%9F%BA%E7%9A%84%E7%A5%9D%E7%A6%8F/</id>
+    <published>2021-02-02T11:12:47.000Z</published>
+    <updated>2021-02-13T13:11:53.369Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\WY-s.birthday\assets\css\APlayer.min.css"><script src="\WY-s.birthday\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>屁股都是爱你的形状</p><iframe height="550px" width="100%" src="//player.bilibili.com/player.html?aid=499058107&bvid=BV13K411n7td&cid=217803235&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>你最喜欢的狗狗，希望你要早点拥有它哦~]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\WY-s.birthday\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\WY-s.birthday\a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在这里许愿，可以实现的哦</title>
     <link href="https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/hello-world/"/>
     <id>https://github.com/Jack-Justice/WY-s.birthday.git/2021/02/02/hello-world/</id>
     <published>2021-02-02T02:34:53.932Z</published>
-    <updated>2021-02-06T05:03:35.879Z</updated>
+    <updated>2021-02-13T13:07:08.242Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\WY-s.birthday\css\APlayer.min.css"><script src="\WY-s.birthday\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\WY-s.birthday\js\Meting.min.js"></script><p><img src="/WY-s.birthday/images/hello-world/3-1612266332398.jpg" alt="3"></p><p>许愿吧！</p><h2 id="A-video"><a href="#A-video" class="headerlink" title="A video"></a>A video</h2><p>祝我生日快乐</p><iframe height="550px" width="100%" src="//player.bilibili.com/player.html?aid=796374691&bvid=BV1mC4y1h7W4&cid=212304141&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>More info: <a href="https://www.bilibili.com/video/BV1mC4y1h7W4?from=search&seid=30414980340216158">blibli</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\WY-s.birthday\assets\css\APlayer.min.css"><script src="\WY-s.birthday\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="流星"><a href="#流星" class="headerlink" title="流星"></a>流星</h2><p><img src="/WY-s.birthday/images/hello-world/3-1612266332398.jpg" alt="3"></p><p>我把祝福绑在流星上，所以她拼命的滑向大地，只为找到你。</p><h2 id="生日快乐"><a href="#生日快乐" class="headerlink" title="生日快乐"></a>生日快乐</h2><p>祝你在这个暑假，可以如期进入希望的网易雷火实习嗷！</p><iframe height="550px" width="100%" src="//player.bilibili.com/player.html?aid=796374691&bvid=BV1mC4y1h7W4&cid=212304141&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>More info: [blibli](https://www.bilibili.com/video/BV1mC4y1h7W4?from=search&seid=30414980340216158)<p>我可都记着呢</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\WY-s.birthday\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\WY-s.birthday\js\APlay</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\WY-s.birthday\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\WY-s.birthday\a</summary>
       
     
     
